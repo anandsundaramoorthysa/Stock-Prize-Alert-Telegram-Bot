@@ -114,7 +114,7 @@ To host the bot on PythonAnywhere and keep it running 24/7 in the **Bash console
 Feel free to fork the repository, make improvements, and create pull requests. Contributions are always welcome.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact Me
 - **Email**: [sanand03072005@gmail.com](mailto:sanand03072005@gmail.com?subject=Inquiry%20About%20Stock%20Price%20Alert%20Telegram%20Bot%20Project&body=Hi%20Anand,%0A%0AI'm%20interested%20in%20learning%20more%20about%20the%20Stock%20Price%20Alert%20Telegram%20Bot%20project%20you%20developed.%20I%20have%20some%20questions%20and%20would%20like%20to%20discuss%20potential%20collaborations.%0A%0AThank%20you!%0A%0ABest%20regards,%0A[Your%20Name])
