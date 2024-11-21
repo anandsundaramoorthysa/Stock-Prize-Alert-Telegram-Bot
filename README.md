@@ -78,7 +78,7 @@ To host the bot on PythonAnywhere and keep it running 24/7 in the **Bash console
 3. Under the **Consoles** tab, start a new **Bash** console.
 4. Set up a virtual environment:
    ```bash
-   python3.8 -m venv venv
+   python -m venv venv
    ```
 5. Activate the virtual environment:
    ```bash
