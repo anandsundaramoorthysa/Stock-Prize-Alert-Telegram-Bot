@@ -11,6 +11,7 @@
 
 ## About Project
 The **Stock Price Alert Telegram Bot** allows users to set alerts for stock prices. The bot notifies the user when a stock reaches the specified price. Users can subscribe or unsubscribe from stock price alerts and check their active subscriptions. It fetches stock prices using the Yahoo Finance API (`yfinance` library) and provides real-time notifications via Telegram.
+**Live Demo**: [@SAStockAlertBot](https://web.telegram.org/k/#@SAStockAlertBot)
 
 ## Installation
 
